@@ -1,5 +1,5 @@
  ### JavaScript Homework #1
-
+[JS_HW1.js](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.js)
  1. Создать переменную `item_1`
  2. Присвоить переменной `item_1` цифру `5`.
  3. Вывести в консоль `item_1`.
@@ -37,6 +37,7 @@
 #### HW_1* 
 Задания с разным количеством звездочек:) 
 #### 1*:
+[JS_HW1.1.js](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.1.js)
 Преобразовать написанный код в 26-33 пунктах в функцию, принимающую на вход возраст. 
 Пример: 
 ```
@@ -47,10 +48,13 @@ const checkAge = function(age) {
 Вывести в консоль результат работы функции с возрастами 17, 18, 61
 
 #### 2*:
+[JS_HW1.2.js](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.2.js)
 Преобразовать задание 1* таким образом, чтобы первым делом в функции проверялся тип данных. И если он не `Number` - кидалась ошибка.
 
 #### 3**:
+[JS_HW1.3.js](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.3.js)
 Преобразовать 2* таким образом, чтобы значение `'2'` (строка в которой лежит ТОЛЬКО ЦИФРА) пропускалось, преобразовываясь в `number`
 
 #### 4***:
+[JS_HW1.4.js](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.4.js); [JS_HW1.4.html](https://github.com/dubinchuk/JavaScript/blob/main/JavaScript_HW1/JS_HW1.4.html)
 Преобразовать задание 3* таким образом, чтобы возраст вводится используя функцию `prompt` в привязанной верстке
