@@ -1,4 +1,3 @@
-let age_1 = '';
 let age_2 = 18;
 let age_3 = 60;
 
